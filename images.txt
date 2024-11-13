@@ -1,5 +1,3 @@
-nginx
-redis
-Portainer
+portainer/portainer-ce:latest
 jellyfin/jellyfin
 openmediavault/openmediavault:latest
