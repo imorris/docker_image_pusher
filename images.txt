@@ -1,5 +1,5 @@
 nginx
 redis
-jellyfin
 Portainer
-openmediavault
+jellyfin/jellyfin
+openmediavault/openmediavault:latest
