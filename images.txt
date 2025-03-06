@@ -1,1 +1,1 @@
-nacos/nacos-server
+redis/redis-insight:latest
