@@ -1,1 +1,1 @@
-soulteary/another-redis-desktop-manager:latest
+elestio/nodebb:latest
