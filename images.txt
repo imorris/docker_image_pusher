@@ -1,1 +1,1 @@
-ghcr.io/anthropics/claude-code:latest
+anthropics/claude-code:latest
