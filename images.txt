@@ -1,1 +1,1 @@
-nezhar/claude-container:latest
+ghcr.io/anthropics/claude-code:latest
