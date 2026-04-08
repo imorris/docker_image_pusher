@@ -1,1 +1,1 @@
-anthropics/claude-code:latest
+nezhar/claude-container:latest
