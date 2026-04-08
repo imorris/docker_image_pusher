@@ -1,1 +1,1 @@
-elestio/nodebb:latest
+ghcr.io/anthropics/claude-code:latest
